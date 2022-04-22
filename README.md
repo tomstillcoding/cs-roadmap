@@ -6,11 +6,13 @@
 >
 > 弱弱的汤姆在线求三连、求关注～
 
-本路线由“汤姆还在写代码”编写，
+本路线由“汤姆还在写代码”编写
+
+关于我的小介绍： [【汤姆还在写代码】](https://docs.qq.com/doc/DRnlJQ3hOZmttYkJk) 
 
 B站：[【汤姆还在写代码】](https://space.bilibili.com/165087084 )
 
-微信公众号： [【汤姆还在写代码】](https://docs.qq.com/doc/DRnlJQ3hOZmttYkJk) 
+公众号：搜索【汤姆还在写代码】
 
 # 关于学习路线
 
