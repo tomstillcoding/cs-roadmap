@@ -4,11 +4,11 @@
 
 本路线由“汤姆还在写代码”编写，
 
-B站：[汤姆还在写代码](https://space.bilibili.com/165087084 )
+B站：[【汤姆还在写代码】](https://space.bilibili.com/165087084 )
 
-微信公众号：汤姆还在写代码
+微信公众号： [【汤姆还在写代码】](https://docs.qq.com/doc/DRnlJQ3hOZmttYkJk) 
 
-<img src="res/wx.png" alt="wx" style="zoom: 25%;" align="left"/>
+<img src="res/wx.png" alt="wx" style="zoom: 15%;" align="left"/>
 
 # 关于学习路线
 
