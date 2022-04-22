@@ -1,6 +1,10 @@
-# 前言
+<img src="res/cheems.png" alt="cheems" style="zoom:50%;" />
+
+# 关于我
 
 > 感谢你能看到这里，希望我们能一起加油！
+>
+> 弱弱的汤姆在线求三连、求关注～
 
 本路线由“汤姆还在写代码”编写，
 
@@ -40,3 +44,6 @@ B站：[【汤姆还在写代码】](https://space.bilibili.com/165087084 )
 
 ![wx](res/wx.png)
 
+# B站
+
+![bilibili](res/bilibili.png)
