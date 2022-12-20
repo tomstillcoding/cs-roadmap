@@ -34,7 +34,7 @@ B站：[【汤姆还在写代码】](https://space.bilibili.com/165087084 )
 > 如果同学觉得这个路线还不错的话，可以在这里打卡，在这里的最后添加上你的名字，然后提交PR(pull request)到这个仓库，也可以算是帮你学习GitHub的使用操作，我会隔一段时间，将大家的名字合并到这里，大家一起互相加油打气，祝大家好运！
 >
 
-汤姆、NUAA_OrangeChen、弹吉他的程序员、剑指牛马、维弟、qzq、洞庭爷爷、Alex、Lionel1999、maple、CodeMak1r-zy、九曰er
+汤姆、NUAA_OrangeChen、弹吉他的程序员、剑指牛马、维弟、qzq、洞庭爷爷、Alex、Lionel1999、maple、CodeMak1r-zy、九曰er、须臾
 
 # 感谢区
 
